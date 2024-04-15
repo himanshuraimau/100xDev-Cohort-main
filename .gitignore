@@ -14,6 +14,8 @@
 /Week 3/Assignments/04-mongo-with-jwt-auth/node_modules
 /Week 3/Assignments/04-mongo-with-jwt-auth/.env
 /Week 3/Assignments/05-mongo-with-jwt-auth-2/node_modules
-/Week-10/node_modules
-/Week-10/.env
+/Week-10/Postgres/node_modules
+/Week-10/Postgres/.env
+/Week-10/Prisma/node_modules
+
 
